@@ -1,2 +1,3 @@
 # ducktype
-A toolkit for type checking in JavaScript 
+
+A toolkit for type checking in JavaScript !
